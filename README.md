@@ -7,3 +7,5 @@ Repozytorium z moimi ćwiczeniami z Pythona i C++.
 
 ## 🎯 Cel
 Systematyczna nauka programowania.
+
+##
