@@ -1,6 +1,6 @@
 # 📱 Nauka programowania
 
-Repozytorium z moimi ćwiczeniami z Pythona i C++.
+Repozytorium z moimi ćwiczeniami z Pythona.
 
 ## 🤔 Co tu jest
 - podstawowe zadania z Pythona
